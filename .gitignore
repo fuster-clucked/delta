@@ -1,0 +1,7 @@
+.*
+!.editorconfig
+!.eslintrc.js
+!.git*
+!.README.md
+node_modules
+package-lock.json

@@ -1,0 +1,23 @@
+{
+  "name": "metabolic",
+  "version": "0.0.0",
+  "description": "Modern functional reactive programming language",
+  "license": "MIT",
+  "author": "Ken Merthe",
+  "bin": {
+    "meta": "bin/index.js"
+  },
+  "scripts": {
+    "readme": "node-readme",
+    "test": "node test"
+  },
+  "dependencies": {
+    "dashdash": "^1.14.1",
+    "moo": "^0.4.3",
+    "nearley": "^2.11.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.15.0",
+    "node-readme": "^0.1.9"
+  }
+}
